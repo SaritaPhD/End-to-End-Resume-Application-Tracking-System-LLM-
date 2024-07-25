@@ -18,7 +18,7 @@
 - PIL (Pillow)
 - PyPDF2
 - google-generativeai
-### Dependencies: If pdf2image requires poppler to be installed on your system. Make sure poppler is installed:
+### Dependencies: If pdf2image is used instaed of pyPDF2 then pdf2image requires poppler to be installed on your system. Make sure poppler is installed:
 
 - On macOS: brew install poppler
 - On Ubuntu: sudo apt-get install -y poppler-utils
@@ -42,7 +42,7 @@ GOOGLE_API_KEY=your_google_api_key
 
 - Upload your resume in PDF format.
 
-- Click on the "Tell Me About the Resume" button to get a professional evaluation or the "Percentage match" button to get a percentage match evaluation.
+- Click on the "Submit" button to get a professional evaluation or the "Percentage match" button to get a percentage match evaluation.
 
 
 ![Alt text](<Screenshot 2024-07-25 at 5.22.19 PM.png>)
