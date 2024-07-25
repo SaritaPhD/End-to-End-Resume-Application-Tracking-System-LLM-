@@ -45,3 +45,4 @@ GOOGLE_API_KEY=your_google_api_key
 - Click on the "Tell Me About the Resume" button to get a professional evaluation or the "Percentage match" button to get a percentage match evaluation.
 
 
+![Alt text](<Screenshot 2024-07-25 at 5.22.19 PM.png>)
