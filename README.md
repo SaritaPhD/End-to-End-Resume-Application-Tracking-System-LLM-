@@ -2,7 +2,7 @@
 
 ## ATS Resume Expert
 ## Overview
-- ATS Resume Expert is a Streamlit-based web application that allows users to upload their resumes in PDF format and receive an analysis based on a provided job description. The application uses the Gemini Pro Vision model from Google's Generative AI to generate detailed feedback and evaluate the alignment of the resume with the job description.
+- ATS Resume Expert is a Streamlit-based web application that allows users to upload their resumes in PDF format and receive an analysis based on a provided job description. The application uses the Gemini Pro model from Google's Generative AI to generate detailed feedback and evaluate the alignment of the resume with the job description.
 
 ## Features
 - Job Description Input: Users can enter the job description in a text area.
