@@ -39,7 +39,7 @@ I want the response in one single string having the structure
 {{"JD Match":"%","MissingKeywords:[]","Profile Summary":""}}
 """
 
-## streamlit app
+# Streamlit app
 st.title("Application Tracking System (ATS)")
 st.text("Improve Your Resume Through ATS")
 jd=st.text_area("Paste the Job Description")
